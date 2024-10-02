@@ -10,6 +10,8 @@ In this demo, we are using Velt SDK to add native recording feature to an email 
 - Presence
 - Sidebar
 - Notifications
+- Huddle
+- Multiplayer Cursors
 
 ## Installation
 
@@ -22,6 +24,8 @@ npm install @veltdev/client
 ## Docs
 
 - [Recording](https://docs.velt.dev/async-collaboration/recorder/overview)
+- [Huddle](https://docs.velt.dev/realtime-collaboration/huddle/overview)
+- [Multiplayer Cursors](https://docs.velt.dev/realtime-collaboration/cursors/overview)
 - For everything else read the [documentation](https://docs.velt.dev/get-started/overview) for guides and API References
 
 ## Other Links
